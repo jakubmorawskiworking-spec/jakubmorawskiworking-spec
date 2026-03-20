@@ -9,9 +9,9 @@
 <div align="center">
 
  ```
- ┌─────────────────────────────────────────────────────────────────────────────────┐
- │  🚀 9+ years building AI systems, scalable backends & cloud-native platforms    │
- └─────────────────────────────────────────────────────────────────────────────────┘
+                      ┌─────────────────────────────────────────────────────────────────────────────────┐
+                      │  🚀 9+ years building AI systems, scalable backends & cloud-native platforms    │
+                      └─────────────────────────────────────────────────────────────────────────────────┘
  ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+that+thinks+%F0%9F%A7%A0;Shipping+apps+with+100K%2B+downloads+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Vector+Embeddings+%F0%9F%94%AE;5+years+%C2%B7+3+companies+%C2%B7+1+mission+%F0%9F%8E%AF;Open+to+collabs+%E2%80%94+let%27s+build+%F0%9F%A4%9D)](https://git.io/typing-svg)
