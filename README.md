@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jakub%20Morawski&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Python%20Engineer%20%7C%20AI%20and%20Backend%20Specialist%20%7C%20AI%20Engineer&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=280&section=header&text=ABHINAV%20KUMAR&fontSize=72&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Senior%20Software%20Engineer%20%7C%20AI%20Architect%20%7C%20Co-Founder&descSize=17&descAlignY=65&descColor=7dd3fc&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=280&section=header&text=Jakub%20Morawski&fontSize=72&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Senior%20Python%20Engineer%20%7C%20AI%20Engineer%20%7C&descSize=17&descAlignY=65&descColor=7dd3fc&animation=twinkling"/>
 
 </div>
 
