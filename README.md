@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jakub%20Morawski&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Python%20Engineer%20%7C%20AI%20and%20Backend%20Specialist%20%7C%20AI%20Engineer&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jakub%20Morawski&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Python%20Engineer%20%7C%20Backend%20Specialist%20%7C%20AI%20Engineer&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=280&section=header&text=Jakub%20Morawski&fontSize=72&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Senior%20Python%20Engineer%20%7C%20AI%20Engineer%20%&descSize=17&descAlignY=65&descColor=7dd3fc&animation=twinkling"/>
 
 </div>
@@ -137,7 +137,6 @@ currently:
 </div>
 
 **Backend & DB**
----
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -199,11 +198,6 @@ Python · Golang · FastAPI · Django · Flask · DRF · REST APIs · GraphQL ·
 ║  🚀  Scaling backend systems, microservices, and cloud infrastructure ║
 ║  🌍  Experienced in international teams · Warsaw, Poland              ║
 ╚═══════════════════════════════════════════════════════════════════════╝
-
-PING abhinav@apexcreators.co.in ... 
-64 bytes from abhinav: response_time=fast  status=OPEN_TO_WORK
-64 bytes from abhinav: freelance=YES       fulltime=YES
-64 bytes from abhinav: opensource=YES      collabs=YES
 
 --- ping statistics ---
 Always responds. Never ghosts. Ships on time. ✓
